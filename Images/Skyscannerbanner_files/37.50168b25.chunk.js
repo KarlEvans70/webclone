@@ -1,0 +1,2 @@
+(this.__LOADABLE_LOADED_CHUNKS__=this.__LOADABLE_LOADED_CHUNKS__||[]).push([[37],{342:function(e,t,r){"use strict";r.r(t);var n=r(14),o=r(0).a.getWindow(),_=o.__internal,i=_.headerVersion,a=_.CultureSelectorVersion,l=_.searchControlsContext;delete o.__internal.headerVersion,delete o.__internal.CultureSelectorVersion,delete o.__internal.searchControlsContext,t.default=function(){return Object(n.a)({name:"header",version:i},(function(e){(0,e.hydrate)({CultureSelectorVersion:a,searchContext:l})}))}}}]);
+//# sourceMappingURL=37.50168b25.chunk.js.map

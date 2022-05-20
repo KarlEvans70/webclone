@@ -1,0 +1,2 @@
+(this.jsTagManagerJsonpCallback=this.jsTagManagerJsonpCallback||[]).push([[66],{58:function(a,n,s){"use strict";s.r(n);var t=s(1);n.default=function(a,n){t.a.getWindow()._pxAppId="PXrf8vapwA",n("/rf8vapwA/init.js")}}}]);
+//# sourceMappingURL=perimeterx-perimeterx.f0d1e718.chunk.js.map
